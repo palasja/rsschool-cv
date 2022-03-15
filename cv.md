@@ -39,3 +39,8 @@ function(nums, target) {
     return res;
 };
 ```
+### EDUCATION
+- Gomel State Road Construction College as Technician of radio electronics
+- Sukhoi state technical university of Gomel As Electronics Engineers
+### ENGLISH LEVEL
+My English level is about A2 (Pre-Intermediate (CEFR A2+) )
